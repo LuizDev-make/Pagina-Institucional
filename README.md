@@ -12,16 +12,24 @@
 
 - `Navegação`: Design do ***Header***
 
+![Header__apresentacao](https://github.com/user-attachments/assets/d444944c-bcd0-42fc-8b47-aae9db7976a7)
 
 
 - `Pagina Inicial`: Design da Pagina Inicial
 
+![pagina__apresentacao](https://github.com/user-attachments/assets/b98ceb90-613f-4854-8138-3a31ecfaa9ca)
 
 
 - `Links âncoras`: Link estilizado para canais de informação
 
+![apresentacao__link](https://github.com/user-attachments/assets/bc40eacf-5e4d-4e8a-9aea-98d8a64f4096)
+
 
 - `About Me`: Pagina destinada ao ***Sobre mim***.
+
+![aprestacao__aboutme](https://github.com/user-attachments/assets/5bdbc365-6948-49ba-a42c-b9f7d13f7f88)
+
+  
 <br></br>
 
 # 📁 Acesso ao projeto
